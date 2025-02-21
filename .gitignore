@@ -1,7 +1,6 @@
 node_modules/
 npm-debug.log
 yarn-error.log
-.env
 .DS_Store
 /build
 /dist
@@ -11,9 +10,9 @@ logs/
 *.tsbuildinfo
 
 # Ignore editor files
-.vscode/
 .idea/
 *.swp
 *.swo
 
 # Ignore dependency lock files (optional, unless you want to commit them)
+config.bat
